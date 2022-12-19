@@ -1,16 +1,29 @@
-vercel link-https://zee5-pradyumancoder.vercel.app/
+<br>
 
-used language:-
+> ZEE% is one of the best online streaming platform
 
-- React
-- Javascript
-- Css
-- Chakara UI
-- Tailwind Css
-- Nodejs
-- Redux js
-- express js
-- Mongodb
+The TripVillas website has been cloned by myself and my team of 4 members as project of our construct week at **Masai School** over 5 days.
+
+# Technology
+
+- **Front-end:** HTML, CSS, JavaScript,ReactJs, Redux, ChakraUi.
+- **Back-end:** nodeJs, expressJs, JavaScript.
+- **Version control:** Git and GitHub.
+- **Hosting:** Vercel
+
+  
+## Features
+
+- Transitioning accordions in various positions for various
+purposes.
+- Multi-level interaction in the sign-up process for users to
+know their needs and to provide service accordingly and
+- password strength given by the user is displayed live.
+- Sign-in for users.
+- search for hotels
+- watch videos
+
+## Snapshots of the project
 
 
 ## Screen Short
@@ -33,3 +46,8 @@ Team Member:-
 - Gowtham Chokkalingam
 - Vishnu Kant Upadhyay
 - Manoj Kumar
+
+
+## Demo
+
+>Link - [coZyTrip](https://zee5-pradyumancoder.vercel.app/)
